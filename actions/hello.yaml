@@ -1,0 +1,11 @@
+---
+name: hello
+pack: test_sensor
+runner_type: "python-script"
+description: print hello world!
+enabled: true
+entry_point: hello.python-scriptparameters:
+    message:
+    type: string
+    description: print hello
+    required: trueposition:1

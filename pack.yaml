@@ -1,0 +1,10 @@
+---
+ref: test_sensor
+name: Polling Sensor Api
+description: PollingSensor Api For testing purpose
+keywords:
+	- Api
+	- polling
+version:0.1.0
+author: Abhijit kar
+email: abhijit.kar@nihilent.com
